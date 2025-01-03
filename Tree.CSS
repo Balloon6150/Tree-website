@@ -1,0 +1,42 @@
+p {
+    color: brown;
+}
+#container { 
+    width: 100%; /* Ensure the parent element, say with id "container", has a width */ 
+}  
+#tree { display: block; /* Make #tree a block element to center with margin: auto */ margin: auto; width: 10px;}
+.button {
+    visibility: visible;
+}
+.button1 {
+    visibility: hidden;
+}
+body {
+    background-image: url('https://cloud-n7dsf0ed6-hack-club-bot.vercel.app/0oip__1_.jpeg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-blend-mode:lighten;
+    margin: auto;
+}
+.Buttons {
+    border: 1px solid black;
+    padding: 3px;
+    background-color: blanchedalmond;
+    margin: auto;
+    width: 50%;
+}.Buttons {
+    border: 1px solid black;
+    padding: 3px;
+    background-color: blanchedalmond;
+    margin: auto;
+    width: 50%;
+}
+.uttons {
+    border: 1px solid rgba(0, 0, 0, 0);
+    padding: 3px;
+    background-color: rgba(255, 235, 205, 0);
+    margin: auto;
+    width: 50%;
+}
